@@ -1,5 +1,8 @@
 # Dash Notes
 
+## Manifest (MPD)
+
+
 ## JavaScript Players
 
 https://github.com/google/shaka-player  
